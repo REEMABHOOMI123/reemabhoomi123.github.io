@@ -1,0 +1,16 @@
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:yellow;
+    background:black;
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color:red;
+    text-align: justify;
+    font-size: 20px;
+}
+img{
+    height: 400px;
+    width: 350px;
+}
